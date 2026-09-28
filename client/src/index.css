@@ -1,0 +1,11 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.low-stock-row {
+  background-color: #fff3cd !important;
+}
+
+.stat-card {
+  border-radius: 12px;
+}
